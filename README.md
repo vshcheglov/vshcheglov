@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **b2b auto parts marketplace**
 
-- 🌱 I’m currently learning **algorithms, concurrency, highload distributed systems**
+- 🌱 I’m currently learning **algorithms and highload distributed systems**
 
 - 💬 Ask me about **magento 2**
 
